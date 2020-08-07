@@ -28,3 +28,14 @@
 
 [fork]: https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo#:~:text=A%20fork%20is%20a%20copy,point%20for%20your%20own%20idea.
 [hngboard]: https://board.hng.tech/ "This created a copy of the whole repo in your profile"
+
+
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
